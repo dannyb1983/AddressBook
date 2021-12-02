@@ -2,7 +2,22 @@
 
 ### Build the web frontend client of an “Address Book” application
 
-</br>
+- [Engineering Challenge - Web FrontEnd](#engineering-challenge---web-frontend)
+    - [Build the web frontend client of an “Address Book” application](#build-the-web-frontend-client-of-an-address-book-application)
+  - [Deployment Steps](#deployment-steps)
+- [How to use the app](#how-to-use-the-app)
+- [Summary](#summary)
+  - [The assignment](#the-assignment)
+- [Approach](#approach)
+  - [Overall Approach](#overall-approach)
+  - [UI/UX](#uiux)
+  - [TDD](#tdd)
+  - [Technologies](#technologies)
+  - [React](#react)
+  - [Choosing State Management](#choosing-state-management)
+  - [Conclusion](#conclusion)
+- [Features](#features)
+  - [Stretch Features](#stretch-features)
 
 ## Deployment Steps
 
