@@ -98,7 +98,7 @@ The component I wanted to start with was the Landing page. This was going to be 
   - Is this code readable? Will it be difficult for someone else to understand?
 
 Once the remaining components were built and functioning as intended, I added more tests to increase the app's reliability.
-
+</br>
 ## Technologies
 
 ## React
@@ -117,10 +117,9 @@ Oh the tradeoffs! There is a tradeoff with every state management solution. It's
   
 - Considering none of my state was going to be needed past 3 component levels, the simple choice of prop drilling solved many of my issues without the time consuming overhead. This was the clear choice when building my app. 
   
-## State Management Conclusion
+## Conclusion
 
-As a principal, I 
-I considered the size and potential structure of this Address Book app. I considered the fact that the app has no backend (besides the `randomuser.me` endpoint) or database to connect to. Given the features that I planned on building out, I didn't see a significant need for a global state management. In this case I felt that prop drilling would be the most appropriate and mature choice.
+I considerd the size and potential structure of this Address Book app. I considered the fact that the app has no backend (besides the `randomuser.me` endpoint) or database to connect to. I didn't see a significant need for a global state management. So in this case, I decided that ```prop drilling``` would be the most appropriate and mature choice. I provided surface level coverage for my components with ```jest``` and ```react-testing-library```. Beyond the component logic, I also leveraged the react-bootstrap component library for responsive elements and ```mobile friendly``` design. With a handful of features I deemed required like a ```search``` and ```sort```, I finished development and pushed to source control. 
 
 # Features
 
@@ -136,6 +135,7 @@ Here are some of the features I included:
 >  - App is both "Mobile friendly" and responsive
 
 ## Stretch Features
+
 > - Ability to paginate results
 > - Finish building out sorting functionality and add more sorting options
 > - Add the ability to categorize the contacts
@@ -147,7 +147,5 @@ Here are some of the features I included:
 > - add user login / security
 > - Deploy this front-end app to aws using the serverless framework
 
-These some of these features are simpler, but some of them could become complex depending on how far we want to go with them. That makes understanding the scope difficult. That being said, I believe I could probably complete most of these stretch features within a few days.
+Some of these features are simpler, but some of them could become complex depending on how far we want to go with them. That makes understanding the scope difficult. That being said, I believe I could probably complete most of these stretch features within a few days.
 
-# Conclusion
-I considerd the size and potential structure of this Address Book app. I considered the fact that the app has no backend (besides the `randomuser.me` endpoint) or database to connect to. I didn't see a significant need for a global state management. So in this case, I decided that ```prop drilling``` would be the most appropriate and mature choice. I provided surface level coverage for my components with ```jest``` and ```react-testing-library```. Beyond the component logic, I also leveraged the react-bootstrap component library for responsive elements and ```mobile friendly``` design. With a handful of features I deemed required like a ```search``` and ```sort```, I finished development and pushed to source control. 
