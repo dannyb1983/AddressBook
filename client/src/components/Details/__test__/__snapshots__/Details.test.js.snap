@@ -1,0 +1,135 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Details (Unit) render() render should match snapshot 1`] = `
+<div
+  class="p-3 container"
+>
+  <div
+    class="row"
+  >
+    <div
+      class="text-left py-5 mt-3 ml-0 pl-0 col-md-12"
+    >
+      <h1>
+        Contact Details
+      </h1>
+      <div
+        style="padding-left: 30px;"
+      >
+        <button
+          class="btn btn-secondary"
+          type="button"
+        >
+          <i
+            class="fas fa-arrow-left mr-2"
+          />
+          back
+        </button>
+      </div>
+    </div>
+  </div>
+  <form
+    class=""
+  >
+    <div
+      class="mb-3 form-group row"
+    >
+      <label
+        class="form-label col-form-label col-sm-2"
+        for="formPlaintextEmail"
+      >
+        First Name
+      </label>
+      <div
+        class="col-sm-10"
+      >
+        <input
+          class="form-control"
+          id="formPlaintextEmail"
+          type="text"
+          value="John"
+        />
+      </div>
+    </div>
+    <div
+      class="mb-3 form-group row"
+    >
+      <label
+        class="form-label col-form-label col-sm-2"
+        for="formPlaintextEmail"
+      >
+        Last Name
+      </label>
+      <div
+        class="col-sm-10"
+      >
+        <input
+          class="form-control"
+          id="formPlaintextEmail"
+          type="text"
+          value="Smith"
+        />
+      </div>
+    </div>
+    <div
+      class="mb-3 form-group row"
+    >
+      <label
+        class="form-label col-form-label col-sm-2"
+        for="formPlaintextEmail"
+      >
+        Email
+      </label>
+      <div
+        class="col-sm-10"
+      >
+        <input
+          class="form-control"
+          id="formPlaintextEmail"
+          type="email"
+          value="brett.bishop@example.com"
+        />
+      </div>
+    </div>
+    <div
+      class="mb-3 form-group row"
+    >
+      <label
+        class="form-label col-form-label col-sm-2"
+        for="formPlaintextEmail"
+      >
+        Phone
+      </label>
+      <div
+        class="col-sm-10"
+      >
+        <input
+          class="form-control"
+          id="formPlaintextEmail"
+          type="input"
+          value="(326)-191-0475"
+        />
+      </div>
+    </div>
+    <div
+      style="padding: 10px; text-align: center;"
+    >
+      <button
+        class="btn btn-primary"
+        type="button"
+      >
+        Delete Contact
+      </button>
+      <div
+        style="width: 20px; height: auto; display: inline-block;"
+      />
+      <button
+        class="btn btn-primary"
+        type="submit"
+      >
+        Save Contact
+      </button>
+    </div>
+  </form>
+</div>
+`;

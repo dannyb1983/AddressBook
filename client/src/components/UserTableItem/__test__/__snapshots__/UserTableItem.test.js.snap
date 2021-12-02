@@ -1,0 +1,190 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`User Table Item (Unit) render() should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="list-group-item"
+  >
+    <div
+      class="my-3 my-auto flex justify-content-center container"
+    >
+      <div
+        class="row"
+      >
+        <div
+          class="mx-auto text-center col-md-6"
+        >
+          <div
+            class="ms-2 me-auto"
+          >
+            <div
+              class="fw-bold"
+            >
+              <a
+                href="/details"
+                style="text-decoration: inherit; padding-right: 20px;"
+              >
+                 
+                <div
+                  class="my-auto"
+                >
+                  John Smith 
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div
+          class="my-auto mx-auto text-center py-2 px-1 col-md-6"
+        >
+          <img
+            alt="user_picture"
+            class="rounded-circle"
+            height="48px"
+            src="https://randomuser.me/api/portraits/thumb/men/33.jpg"
+            width="48px"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="list-group-item"
+  >
+    <div
+      class="my-3 my-auto flex justify-content-center container"
+    >
+      <div
+        class="row"
+      >
+        <div
+          class="mx-auto text-center col-md-6"
+        >
+          <div
+            class="ms-2 me-auto"
+          >
+            <div
+              class="fw-bold"
+            >
+              <a
+                href="/details"
+                style="text-decoration: inherit; padding-right: 20px;"
+              >
+                 
+                <div
+                  class="my-auto"
+                >
+                  Carter Robinso 
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div
+          class="my-auto mx-auto text-center py-2 px-1 col-md-6"
+        >
+          <img
+            alt="user_picture"
+            class="rounded-circle"
+            height="48px"
+            src="https://randomuser.me/api/portraits/thumb/men/94.jpg"
+            width="48px"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="list-group-item"
+  >
+    <div
+      class="my-3 my-auto flex justify-content-center container"
+    >
+      <div
+        class="row"
+      >
+        <div
+          class="mx-auto text-center col-md-6"
+        >
+          <div
+            class="ms-2 me-auto"
+          >
+            <div
+              class="fw-bold"
+            >
+              <a
+                href="/details"
+                style="text-decoration: inherit; padding-right: 20px;"
+              >
+                 
+                <div
+                  class="my-auto"
+                >
+                  Carter Robinson 
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div
+          class="my-auto mx-auto text-center py-2 px-1 col-md-6"
+        >
+          <img
+            alt="user_picture"
+            class="rounded-circle"
+            height="48px"
+            src="https://randomuser.me/api/portraits/thumb/men/94.jpg"
+            width="48px"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="list-group-item"
+  >
+    <div
+      class="my-3 my-auto flex justify-content-center container"
+    >
+      <div
+        class="row"
+      >
+        <div
+          class="mx-auto text-center col-md-6"
+        >
+          <div
+            class="ms-2 me-auto"
+          >
+            <div
+              class="fw-bold"
+            >
+              <a
+                href="/details"
+                style="text-decoration: inherit; padding-right: 20px;"
+              >
+                 
+                <div
+                  class="my-auto"
+                >
+                  Sandyw Scholl 
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div
+          class="my-auto mx-auto text-center py-2 px-1 col-md-6"
+        >
+          <img
+            alt="user_picture"
+            class="rounded-circle"
+            height="48px"
+            src="https://randomuser.me/api/portraits/thumb/women/58.jpg"
+            width="48px"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

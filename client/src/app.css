@@ -1,0 +1,37 @@
+h1 {
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 5px;
+}
+
+.sticky-nav {
+  position: sticky;
+  z-index: 1;
+  top: 0;
+}
+.title {
+  padding: 6px;
+  padding-top: 6px;
+  padding-right: 5%;
+  color: rgba(255, 255, 255, 0.855);
+  position: sticky;
+  z-index: 1;
+  top: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: right;
+  background-color: #3e3e3e;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+  /* color: black; */
+  text-shadow: -0.15px -0.15px 0 transparent, 0.15px 0.15px transparent;
+  margin: 0 4px;
+  transition: 0.2s all;
+}
+a:hover {
+  text-shadow: -0.15px -0.15px 0 black, 0.15px 0.15px black;
+  color: rgb(87, 141, 192);
+  transition: 0.2s all;
+}
